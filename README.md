@@ -98,33 +98,6 @@ To run the front-end:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Badges
-- [x] Add back to top links
-- [x] Add Video
-- [x] Add License 
-- [x] Add Contact
-- [ ] Add Usage
-- [ ] Add Getting Started
-- [ ] Add Changelog
-      
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Alessandro Vecchi - alessandro.vecchi66@gmail.com
-
-Project Link: [https://github.com/Alessandro-vecchi/UniDrive](https://github.com/Alessandro-vecchi/UniDrive)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
